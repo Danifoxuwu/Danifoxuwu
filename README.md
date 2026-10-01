@@ -5,7 +5,7 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F05A7E&center=true&vCenter=true&width=760&lines=Daniel+Avila+%2F%2F+Danifoxuwu;Desarrollador+de+software;Web+%E2%80%A2+Backend+%E2%80%A2+Mobile;Código%2C+videojuegos+y+escritura"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F05A7E&center=true&vCenter=true&width=760&lines=Daniel+Avila+%2F%2F+Danifoxuwu;Desarrollador+de+software;Web+%E2%80%A2+Backend+%E2%80%A2+Mobile;C%C3%B3digo%2C+videojuegos+y+escritura"
   alt="Texto animado"
 />
 
@@ -21,11 +21,13 @@
 
 Soy **Daniel Avila**, desarrollador de software y actualmente trabajo en **Emkode**.
 
-Me enfoco principalmente en desarrollo **web**, **backend** y **aplicaciones móviles**. Me gusta trabajar en proyectos reales, resolver problemas concretos y moverme entre distintas tecnologías dependiendo de lo que necesite el proyecto.
+Me enfoco principalmente en desarrollo **web**, **backend** y **aplicaciones móviles**. Me gusta trabajar en proyectos reales, resolver problemas concretos y moverme entre distintas tecnologías dependiendo de lo que necesite cada proyecto.
 
 Fuera del desarrollo, me gustan mucho los videojuegos, la escritura y el roleplay.
 
-**Minecraft**, **Splatoon**, **Tomodachi Life**, **Forsaken** y **Kasane Teto** son algunas de las cosas que más me gustan.
+Entre las cosas que más me gustan están:
+
+`Minecraft` · `Splatoon` · `Tomodachi Life` · `Forsaken` · `Kasane Teto` · `Escritura` · `Roleplay`
 
 ---
 
@@ -45,7 +47,8 @@ Intereses   : Programación
               Videojuegos
 
 Actualmente : trabajando, aprendiendo
-              y probablemente empezando otro proyecto
+              y probablemente pensando
+              en otro proyecto
 ```
 
 ---
@@ -54,13 +57,19 @@ Actualmente : trabajando, aprendiendo
 
 <div align="center">
 
+### Lenguajes
+
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,html,css&theme=dark" />
 
 <br><br>
 
+### Frameworks y herramientas
+
 <img src="https://skillicons.dev/icons?i=flutter,react,angular,nodejs,django,flask,spring,express&theme=dark" />
 
 <br><br>
+
+### Bases de datos y herramientas de desarrollo
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux,vscode&theme=dark" />
 
@@ -72,95 +81,139 @@ Actualmente : trabajando, aprendiendo
 
 ### Emkode
 
-Actualmente trabajo como desarrollador de software en **Emkode**, participando en proyectos web y móviles, integraciones y desarrollo de soluciones para clientes.
+Actualmente trabajo como desarrollador de software en **Emkode**, participando en desarrollo, mantenimiento e integración de soluciones web y móviles.
 
-Entre las cosas en las que he trabajado están:
+He trabajado principalmente con:
 
+- desarrollo de aplicaciones web
 - desarrollo de aplicaciones móviles
-- integración de servicios web y APIs
+- APIs e integraciones
+- webhooks
 - automatización de procesos
-- webhooks e integración entre plataformas
-- mantenimiento y desarrollo de sistemas existentes
-- publicación y preparación de aplicaciones para Android y iOS
+- bases de datos
+- mantenimiento de sistemas existentes
+- publicación y preparación de aplicaciones
+- integración entre plataformas y servicios externos
 
 ---
 
 ## Proyectos
 
-### FINYO Mobile
+### 🎯 Bounty League
 
-Aplicación móvil desarrollada con **Expo / React Native + TypeScript** para llevar una plataforma web existente a Android y iOS mediante WebView.
+Plataforma competitiva desarrollada con **Django**, integración con **Discord** y servicios propios para gestión de partidas, participantes y resultados.
 
-Parte del trabajo incluye:
+El proyecto incluye:
 
-- integración entre WebView y funcionalidades nativas
-- comunicación mediante `postMessage`
-- permisos del dispositivo
-- preparación para notificaciones push
-- configuración de builds con EAS
-- publicación en Android y iOS
+- registro y gestión de participantes
+- sistema de bounties y recompensas
+- bot de Discord
+- comandos para reporte de resultados
+- gestión de partidas
+- panel administrativo
+- integración con pagos
+- sistema de sorteos
+- API propia para comunicación con clientes externos
+- integración con Unity
+
+Tecnologías principales:
+
+`Django` · `Python` · `Discord Bot` · `API REST` · `Unity` · `PostgreSQL`
 
 ---
 
-### Infrared Insight
+### 📱 Infrared Insight
 
 Aplicación móvil desarrollada con **Flutter** enfocada en análisis termográfico como apoyo para el prediagnóstico de cáncer de mama.
 
-Trabajé en levantamiento de requerimientos, desarrollo por sprints, integración del algoritmo y construcción del prototipo funcional.
+Trabajé en:
+
+- levantamiento de requerimientos
+- desarrollo por sprints
+- integración del algoritmo
+- diseño del flujo de la aplicación
+- construcción del prototipo funcional
+- documentación del proyecto
+
+Tecnologías principales:
+
+`Flutter` · `Dart`
 
 ---
 
-### Sistema de Infracciones
+### 🏛️ Sistema de Infracciones
 
 Sistema web desarrollado con **Angular + Node.js** para captura y gestión de infracciones.
 
-Incluye distintos módulos de captura, generación de tickets PDF e integración de procesos administrativos.
+Incluye:
+
+- módulos de captura de información
+- gestión de vehículos e infracciones
+- flujo mediante stepper
+- generación de tickets PDF
+- integración de procesos administrativos
+- soporte para uso desde distintos dispositivos
+
+Tecnologías principales:
+
+`Angular` · `Node.js` · `TypeScript` · `JavaScript`
 
 ---
 
-### Modernización de sistema de cobro municipal
+### 💰 Modernización de sistema de cobro municipal
 
 Proyecto desarrollado durante mis residencias profesionales para modernizar un sistema de cobro de impuestos municipales.
 
+El objetivo fue trasladar procesos existentes hacia una solución web que redujera la dependencia de instalaciones locales.
+
 Se trabajó con:
 
-`PostgreSQL` · `Web` · `Integración con terminales` · `Pruebas de concurrencia`
+- base de datos PostgreSQL
+- control de consecutivos
+- manejo de usuarios
+- integración con terminales bancarias
+- pruebas de concurrencia
+- pruebas automatizadas
+- modernización de procesos existentes
+
+Tecnologías principales:
+
+`PostgreSQL` · `Python` · `Web`
 
 ---
 
-### Mi Diario
+### 🤖 Inteligencia Artificial
 
-Aplicación desarrollada con **Flask + PostgreSQL** aplicando patrones de diseño como **Factory Method**.
+También he trabajado y experimentado con temas relacionados con inteligencia artificial, búsqueda semántica y manejo de información mediante embeddings.
 
-Incluye autenticación, registro de usuarios, dashboard y manejo de información asociada a sentimientos.
+Me interesan especialmente:
 
----
-
-### Spring Boot + OAuth2
-
-Proyecto con autenticación mediante:
-
-`Google OAuth2` · `GitHub OAuth2` · `Spring Boot`
-
-Además de endpoints REST para gestión de información.
+- búsqueda semántica
+- embeddings
+- procesamiento de información
+- automatización
+- integración de modelos dentro de aplicaciones
 
 ---
 
 ## También he trabajado con
 
 ```txt
-Webhooks
 APIs REST
+Webhooks
 OAuth2
 PostgreSQL
+MySQL
+Docker
+GitHub Actions
+FTP Deploy
 Google Play Console
 TestFlight
 Expo / EAS
-GitHub Actions
-FTP Deploy
 Power BI
 Moodle
-Docker
+Unity
+Discord Bots
 ```
 
 ---
@@ -185,6 +238,41 @@ Docker
 Me gusta escribir personajes, escenas y mundos.
 
 El roleplay es una de las formas en las que más disfruto escribir, especialmente cuando hay personajes con personalidad clara, relaciones que evolucionan y mundos con suficiente espacio para desarrollar historias.
+
+También me gusta trabajar con:
+
+- construcción de personajes
+- worldbuilding
+- diálogos
+- desarrollo de relaciones
+- historias largas
+- continuidad narrativa
+
+---
+
+## Cosas que me gustan
+
+<div align="center">
+
+`Minecraft`
+
+`Splatoon`
+
+`Tomodachi Life`
+
+`Forsaken`
+
+`Kasane Teto`
+
+`Escritura`
+
+`Roleplay`
+
+`Videojuegos`
+
+`Programación`
+
+</div>
 
 ---
 
@@ -225,10 +313,43 @@ El roleplay es una de las formas en las que más disfruto escribir, especialment
 + aprendiendo nuevas tecnologías
 + escribiendo
 + jugando algo cuando tengo tiempo
++ trabajando en proyectos personales
 + pensando en ideas nuevas
 
-- terminando todas las ideas antes de empezar otra
+- terminando una idea antes de empezar otra
 ```
+
+---
+
+## Un poco más sobre mí
+
+```txt
+Me gusta construir cosas que tengan utilidad.
+
+Me gusta que los proyectos se sientan bien hechos.
+
+Me gusta escribir.
+
+Me gustan los videojuegos.
+
+Me gusta experimentar con ideas nuevas.
+
+Y casi siempre termino aprendiendo algo nuevo
+porque empecé un proyecto que probablemente
+era más grande de lo que parecía.
+```
+
+---
+
+## Contacto
+
+<div align="center">
+
+<a href="https://github.com/Danifoxuwu">
+  <img src="https://img.shields.io/badge/GitHub-Danifoxuwu-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
