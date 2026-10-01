@@ -5,7 +5,7 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F05A7E&center=true&vCenter=true&width=760&lines=Daniel+Avila+%2F%2F+Danifoxuwu;Desarrollador+de+software;Web+%E2%80%A2+Backend+%E2%80%A2+Mobile;C%C3%B3digo%2C+videojuegos+y+escritura"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F05A7E&center=true&vCenter=true&width=760&lines=Daniel+Avila+%2F%2F+Danifoxuwu;Desarrollador+de+Software;Web+%E2%80%A2+Backend+%E2%80%A2+Mobile;Codigo+%E2%80%A2+Videojuegos+%E2%80%A2+Escritura"
   alt="Texto animado"
 />
 
@@ -13,25 +13,31 @@
 
 <b>Desarrollador de Software en Emkode</b>
 
+<br>
+
+<sub>
+✦ Agente 8 Lover ✦ Gamer ✦ Escritor
+</sub>
+
 </div>
 
 ---
 
-## Sobre mí
+# ✦ Sobre mí
 
-Soy **Daniel Avila**, desarrollador de software y actualmente trabajo en **Emkode**.
+Soy **Daniel Avila**, aunque en internet suelo aparecer como **Danifoxuwu**.
 
-Me enfoco principalmente en desarrollo **web**, **backend** y **aplicaciones móviles**. Me gusta trabajar en proyectos reales, resolver problemas concretos y moverme entre distintas tecnologías dependiendo de lo que necesite cada proyecto.
+Actualmente trabajo como **Desarrollador de Software en Emkode**.
 
-Fuera del desarrollo, me gustan mucho los videojuegos, la escritura y el roleplay.
+Mi trabajo se enfoca principalmente en desarrollo **web**, **backend** y **aplicaciones móviles**, además de integraciones entre plataformas, APIs, automatización y mantenimiento de sistemas.
 
-Entre las cosas que más me gustan están:
+Fuera del desarrollo, paso bastante tiempo entre videojuegos, escritura, roleplay y proyectos personales.
 
-`Minecraft` · `Splatoon` · `Tomodachi Life` · `Forsaken` · `Kasane Teto` · `Escritura` · `Roleplay`
+Me gustan especialmente:
 
----
+`Minecraft` · `Splatoon` · `Tomodachi Life` · `Forsaken` · `Kasane Teto`
 
-## `whoami`
+# ✦ `whoami`
 
 ```txt
 Nombre      : Daniel Avila
@@ -39,21 +45,30 @@ Usuario     : Danifoxuwu
 Trabajo     : Emkode
 Rol         : Desarrollador de Software
 
-Enfoque     : Web / Backend / Mobile
+Enfoque     : Web
+              Backend
+              Mobile
 
 Intereses   : Programación
               Escritura
               Roleplay
               Videojuegos
 
-Actualmente : trabajando, aprendiendo
-              y probablemente pensando
-              en otro proyecto
+Favoritos   : Splatoon
+              Minecraft
+              Tomodachi Life
+              Forsaken
+              Kasane Teto
+
+Estado      : trabajando
+              aprendiendo
+              escribiendo
+              pensando en otro proyecto
 ```
 
 ---
 
-## Tecnologías
+# ✦ Tecnologías
 
 <div align="center">
 
@@ -63,13 +78,13 @@ Actualmente : trabajando, aprendiendo
 
 <br><br>
 
-### Frameworks y herramientas
+### Frameworks
 
 <img src="https://skillicons.dev/icons?i=flutter,react,angular,nodejs,django,flask,spring,express&theme=dark" />
 
 <br><br>
 
-### Bases de datos y herramientas de desarrollo
+### Herramientas
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux,vscode&theme=dark" />
 
@@ -77,126 +92,140 @@ Actualmente : trabajando, aprendiendo
 
 ---
 
-## Experiencia
+# ✦ Experiencia
 
-### Emkode
+## Emkode
 
 Actualmente trabajo como desarrollador de software en **Emkode**, participando en desarrollo, mantenimiento e integración de soluciones web y móviles.
 
 He trabajado principalmente con:
 
-- desarrollo de aplicaciones web
-- desarrollo de aplicaciones móviles
-- APIs e integraciones
-- webhooks
-- automatización de procesos
-- bases de datos
-- mantenimiento de sistemas existentes
-- publicación y preparación de aplicaciones
-- integración entre plataformas y servicios externos
+```txt
+Desarrollo web
+Desarrollo móvil
+APIs REST
+Integraciones
+Webhooks
+Automatización
+Bases de datos
+Mantenimiento de sistemas
+Publicación de aplicaciones
+Servicios externos
+```
 
 ---
 
-## Proyectos
+# ✦ Proyectos
 
-### 🎯 Bounty League
+## Bounty League
 
 Plataforma competitiva desarrollada con **Django**, integración con **Discord** y servicios propios para gestión de partidas, participantes y resultados.
 
-El proyecto incluye:
+Incluye:
 
-- registro y gestión de participantes
-- sistema de bounties y recompensas
-- bot de Discord
-- comandos para reporte de resultados
-- gestión de partidas
-- panel administrativo
-- integración con pagos
-- sistema de sorteos
-- API propia para comunicación con clientes externos
-- integración con Unity
+```txt
+Gestión de participantes
+Sistema de bounties
+Gestión de recompensas
+Bot de Discord
+Reporte de resultados
+Gestión de partidas
+Panel administrativo
+Integración de pagos
+Sistema de sorteos
+API propia
+Integración con Unity
+```
 
-Tecnologías principales:
+Tecnologías:
 
 `Django` · `Python` · `Discord Bot` · `API REST` · `Unity` · `PostgreSQL`
 
 ---
 
-### 📱 Infrared Insight
+## Infrared Insight
 
 Aplicación móvil desarrollada con **Flutter** enfocada en análisis termográfico como apoyo para el prediagnóstico de cáncer de mama.
 
 Trabajé en:
 
-- levantamiento de requerimientos
-- desarrollo por sprints
-- integración del algoritmo
-- diseño del flujo de la aplicación
-- construcción del prototipo funcional
-- documentación del proyecto
+```txt
+Levantamiento de requerimientos
+Desarrollo por sprints
+Integración del algoritmo
+Diseño del flujo de la aplicación
+Prototipo funcional
+Documentación
+```
 
-Tecnologías principales:
+Tecnologías:
 
 `Flutter` · `Dart`
 
 ---
 
-### 🏛️ Sistema de Infracciones
+## Sistema de Infracciones
 
 Sistema web desarrollado con **Angular + Node.js** para captura y gestión de infracciones.
 
 Incluye:
 
-- módulos de captura de información
-- gestión de vehículos e infracciones
-- flujo mediante stepper
-- generación de tickets PDF
-- integración de procesos administrativos
-- soporte para uso desde distintos dispositivos
+```txt
+Gestión de vehículos
+Gestión de infracciones
+Captura mediante stepper
+Generación de tickets PDF
+Procesos administrativos
+Compatibilidad con distintos dispositivos
+```
 
-Tecnologías principales:
+Tecnologías:
 
 `Angular` · `Node.js` · `TypeScript` · `JavaScript`
 
 ---
 
-### 💰 Modernización de sistema de cobro municipal
+## Modernización de sistema de cobro municipal
 
 Proyecto desarrollado durante mis residencias profesionales para modernizar un sistema de cobro de impuestos municipales.
 
-El objetivo fue trasladar procesos existentes hacia una solución web que redujera la dependencia de instalaciones locales.
+El objetivo fue trasladar procesos existentes hacia una solución web y reducir la dependencia de instalaciones locales.
 
-Se trabajó con:
+Trabajé con:
 
-- base de datos PostgreSQL
-- control de consecutivos
-- manejo de usuarios
-- integración con terminales bancarias
-- pruebas de concurrencia
-- pruebas automatizadas
-- modernización de procesos existentes
+```txt
+PostgreSQL
+Control de consecutivos
+Gestión de usuarios
+Terminales bancarias
+Pruebas de concurrencia
+Pruebas automatizadas
+Modernización de procesos
+```
 
-Tecnologías principales:
+Tecnologías:
 
 `PostgreSQL` · `Python` · `Web`
 
 ---
 
-### 🤖 Inteligencia Artificial
+## Inteligencia Artificial
 
-También he trabajado y experimentado con temas relacionados con inteligencia artificial, búsqueda semántica y manejo de información mediante embeddings.
+También he trabajado y experimentado con temas relacionados con inteligencia artificial.
 
-Me interesan especialmente:
+Principalmente:
 
-- búsqueda semántica
-- embeddings
-- procesamiento de información
-- automatización
-- integración de modelos dentro de aplicaciones
+```txt
+Búsqueda semántica
+Embeddings
+Procesamiento de información
+Automatización
+Integración de modelos
+```
 
 ---
 
-## También he trabajado con
+# ✦ También he trabajado con
 
 ```txt
 APIs REST
@@ -218,39 +247,7 @@ Discord Bots
 
 ---
 
-## Fuera del código
-
-```txt
-🎮 Minecraft
-🦑 Splatoon
-🌸 Tomodachi Life
-🕹️ Forsaken
-🎵 Kasane Teto
-✍️ Escritura
-🎭 Roleplay
-🌌 Worldbuilding
-```
-
----
-
-## Escritura y roleplay
-
-Me gusta escribir personajes, escenas y mundos.
-
-El roleplay es una de las formas en las que más disfruto escribir, especialmente cuando hay personajes con personalidad clara, relaciones que evolucionan y mundos con suficiente espacio para desarrollar historias.
-
-También me gusta trabajar con:
-
-- construcción de personajes
-- worldbuilding
-- diálogos
-- desarrollo de relaciones
-- historias largas
-- continuidad narrativa
-
----
-
-## Cosas que me gustan
+# ✦ Fuera del código
 
 <div align="center">
 
@@ -268,15 +265,90 @@ También me gusta trabajar con:
 
 `Roleplay`
 
-`Videojuegos`
+`Worldbuilding`
 
-`Programación`
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./assets/teto.png" width="300" alt="Kasane Teto" />
 
 </div>
 
 ---
 
-## GitHub
+# ✦ Escritura y roleplay
+
+Me gusta escribir personajes, escenas y mundos.
+
+El roleplay es una de las formas en las que más disfruto escribir, especialmente cuando hay personajes con personalidad clara, relaciones que evolucionan y mundos con suficiente espacio para desarrollar historias.
+
+Me interesa especialmente:
+
+```txt
+Construcción de personajes
+Worldbuilding
+Diálogos
+Relaciones entre personajes
+Historias largas
+Continuidad narrativa
+```
+
+---
+
+# ✦ Minecraft
+
+<div align="center">
+
+<img src="./assets/minecraft.png" width="100%" alt="Minecraft" />
+
+</div>
+
+<br>
+
+Minecraft es uno de esos juegos a los que siempre termino regresando.
+
+Construir, explorar, empezar mundos nuevos y terminar haciendo proyectos mucho más grandes de lo que originalmente tenía planeado.
+
+---
+
+# ✦ Splatoon
+
+Splatoon es probablemente una de las franquicias con las que más conecto visualmente.
+
+Me gustan sus personajes, música, estética, mundo y dirección artística.
+
+Y entre todos ellos:
+
+<div align="center">
+
+### ✦ Agente 8 Lover ✦
+
+<img src="./assets/agent8.png" width="280" alt="Agente 8" />
+
+</div>
+
+---
+
+# ✦ Actualmente
+
+```diff
++ trabajando en Emkode
++ desarrollando software
++ aprendiendo nuevas tecnologías
++ escribiendo
++ jugando cuando tengo tiempo
++ trabajando en proyectos personales
++ pensando en ideas nuevas
+
+- terminando una idea antes de empezar otra
+```
+
+---
+
+# ✦ GitHub
 
 <div align="center">
 
@@ -305,28 +377,12 @@ También me gusta trabajar con:
 
 ---
 
-## Actualmente
-
-```diff
-+ trabajando en Emkode
-+ desarrollando software
-+ aprendiendo nuevas tecnologías
-+ escribiendo
-+ jugando algo cuando tengo tiempo
-+ trabajando en proyectos personales
-+ pensando en ideas nuevas
-
-- terminando una idea antes de empezar otra
-```
-
----
-
-## Un poco más sobre mí
+# ✦ Un poco más sobre mí
 
 ```txt
 Me gusta construir cosas que tengan utilidad.
 
-Me gusta que los proyectos se sientan bien hechos.
+Me gusta que los proyectos tengan identidad.
 
 Me gusta escribir.
 
@@ -334,14 +390,14 @@ Me gustan los videojuegos.
 
 Me gusta experimentar con ideas nuevas.
 
-Y casi siempre termino aprendiendo algo nuevo
-porque empecé un proyecto que probablemente
-era más grande de lo que parecía.
+Y casi siempre termino aprendiendo algo
+porque empecé un proyecto que terminó siendo
+mucho más grande de lo que parecía.
 ```
 
 ---
 
-## Contacto
+# ✦ Contacto
 
 <div align="center">
 
@@ -355,18 +411,22 @@ era más grande de lo que parecía.
 
 <div align="center">
 
-<img src="./assets/footer.png" width="300" alt="Footer de Danifoxuwu" />
+<img src="./assets/footer.png" width="75%" alt="Footer de Agente 8" />
 
-<br>
+<br><br>
 
-### Daniel Avila // Danifoxuwu
+### ✦ Daniel Avila // Danifoxuwu ✦
 
-`Software Developer` · `Gamer` · `Writer`
+`Software Developer` · `Agente 8 Lover` · `Gamer` · `Writer`
 
-<br>
+<br><br>
 
 <img
   src="https://komarev.com/ghpvc/?username=Danifoxuwu&label=visitas&color=ff4f7b&style=flat-square"
 />
+
+<br><br>
+
+✦ ───────────── ✦
 
 </div>
