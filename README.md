@@ -366,15 +366,6 @@ Y entre todos ellos:
 
 <br>
 
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Danifoxuwu&theme=redical&hide_border=true&radius=16"
-  width="95%"
-/>
-
-</div>
-
 ---
 
 # ✦ Un poco más sobre mí
